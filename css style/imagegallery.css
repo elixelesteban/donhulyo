@@ -1,0 +1,46 @@
+div.gallery {
+  margin: 15px;
+  border: 1px solid #ccc;
+  float: left;
+  max-width: 1200px;
+  width: 300px;
+}
+
+div.gallery:hover {
+  border: 3px solid white;
+  background-color:#5e0f06;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+  font-family: roboto;
+  color: white;
+}
+
+div.details{
+border-radius: 25px; 
+font-family: century gothic;
+font-weight: bold;
+background: maroon;
+padding: 15px;
+width: 700px;
+}
+
+div.pad {
+	margin-left: 100px;
+
+}
+
+div.cen {
+	margin-left: 600px;
+}
+
+div.three {
+	margin-left: 300px;
+}
